@@ -1,5 +1,6 @@
 body {
     background-color: #fffbf7;
+    text-align: center;
 }
 h1 {
     color: #025157;
@@ -8,5 +9,23 @@ h4 {
     color: #8b8b8bcc;
 }
 button {
-    background-color: #025157; color: #fff;
+    padding: 12px 12px;
+    background-color: #025157;
+    color: #fff;
+    border: none;
+    margin-left: -2px; 
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;  
+}
+input {
+    padding: 10px 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+form {
+    text-align: center;
 }
