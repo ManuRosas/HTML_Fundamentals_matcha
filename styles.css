@@ -41,7 +41,8 @@ form {
 
 /* Preguntar sobre el margin 0 */
 .actions > * {
-    margin: 0 10px;    
+    /* margin: 0 10px;     */
+    margin: 10px;   /* Proobando sin el valor CERO  */
 }
 
 .actions > a {
