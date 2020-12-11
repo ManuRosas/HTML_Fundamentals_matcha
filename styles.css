@@ -152,6 +152,7 @@ input {
 }
 /* Sesion 4 */
 .features {
+    height: 660px;
     background-color: #025157;
     padding: 5% 10%;
     display: grid;
